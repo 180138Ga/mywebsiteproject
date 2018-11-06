@@ -6,6 +6,7 @@
 		overflow: hidden;
 		background-color: #c6dbef;
 		font-family: bromello;
+		font-size: 25px;
 	}
 
 	li {
@@ -24,3 +25,6 @@
 		font-family: bromello;
 		src: url(bromello.ttf);
 	}
+	
+/* Colors */
+	
